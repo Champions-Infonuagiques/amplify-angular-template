@@ -12,6 +12,12 @@ This template equips you with a foundational Angular.js application integrated w
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
+### AWS authentication
+`aws sso login`
+
+### Amplify sandbox
+`npx ampx sandbox`
+
 ## Deploying to AWS
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/angular/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
